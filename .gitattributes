@@ -1,0 +1,2 @@
+C:/Users/Deepa/Desktop/Projects/Library_Management_System>git[[:space:]]lfs[[:space:]]track[[:space:]]C:/Users/Deepa/Desktop/Projects/Library_Management_System/* filter=lfs diff=lfs merge=lfs -text
+C:/Users/Deepa/Desktop/Projects/Library_Management_System/** filter=lfs diff=lfs merge=lfs -text
